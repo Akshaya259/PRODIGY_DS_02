@@ -10,18 +10,18 @@ This repository contains a Jupyter notebook for analyzing the Titanic dataset. T
   -The dataset are loaded using the library pandas
 
 
-2. **Data Cleaning**
+2.**Data Cleaning**
   -Check for missing values and handle them appropriately. For example, missing values in the 'Age' column are filled with the median.
 
 
-3. **Explore the Data**
+3.**Explore the Data**
   -Explore the distribution of numerical features using descriptive statistics and visualizations.
   -Visualize the distribution of age using a histogram.
 
 
-4. **Explore Relationships**
+4.**Explore Relationships**
   -Explore relationships between variables, such as survival rate based on Pclass and Sex.
 
 
-5. **Correlation Matrix**
+5.**Correlation Matrix**
   -Visualize the correlation matrix to explore relationships between numerical features.
